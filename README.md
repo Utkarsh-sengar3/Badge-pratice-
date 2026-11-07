@@ -1,2 +1,2 @@
 # Badge-pratice-
-: My GitHub achievement practice
+: My GitHub achievement practices 
